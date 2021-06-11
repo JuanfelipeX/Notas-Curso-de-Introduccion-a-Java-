@@ -52,6 +52,7 @@ Es muy importante que aprendas primero muy bien la parte Standar de Java, toda l
 Nos enfocaremos mucho en el lenguaje, especialmente porque Java tiene la filosofía «Write Once, Run Anywhere» o WORA que significa que lo aprendido aquí en la versión estándar puede ser llevado a la versión enterprise. Es decir, lo que escribas en Java lo puedes correr en cualquier lugar y en cualquier sistema operativo, por eso Java es interoperable, multiplataforma.
 
 ### Clase 2 *Versiones de Java y JDK*
+![image](https://user-images.githubusercontent.com/72418729/121740734-27cb4b00-cac3-11eb-9319-2eb17f8af82a.png)
 
 Cuando comenzamos a aprender Java la primera cosa rara con la que nos encontramos es el Java Development Kit o JDK que se compone de los tres elementos siguientes:
 
