@@ -1,2 +1,2 @@
-# 🖥 En este Repostiorio encontramos las notas de la Clases del Curso de Introducción a Java SE 🖥
-Notas de las clases de Platzi
+# 🖥 En este Repostiorio encontramos las notas varios cursos en platzi  🖥
+Las podemos mirar en la carpeta notas
