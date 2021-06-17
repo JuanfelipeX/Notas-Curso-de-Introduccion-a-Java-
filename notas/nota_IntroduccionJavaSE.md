@@ -1433,6 +1433,9 @@ Volvemos a escribir hasta que IntelliJ IDEA nos sugiera una opción, pasamos el 
 ## Modulo 5. Analizar e implementar Ciclos en Java
 ### Clase 31 *Bucle do While*
 
+![image](https://user-images.githubusercontent.com/72418729/122431557-2df57780-cf5a-11eb-97d8-ccecb1618355.png)
+
+
 Ya aprendimos sobre cómo funciona el control de flujo con las sentencias, sabemos que básicamente nos ayuda a definir que líneas de código se ejecutaran, pero ahora aprenderemos otra versión del control de flujo que son los bucles.
 
 Los bucles, iteraciones o sentencias repetitivas modifican el flujo secuencial de un programa y son utilizados para ejecutar un conjunto de instrucciones varias veces basándose siempre en una condición que decidirá si se sigue repitiendo o no. En Java hay tres tipos diferentes de bucles: for, while y do-while.
